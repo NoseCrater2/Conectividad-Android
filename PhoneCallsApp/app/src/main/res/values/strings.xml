@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhoneCallsApp</string>
+    <string name="dial_hotline">Dial Hotline</string>
+    <string name="telephony_not_enabled">Telephony Not Enabled</string>
+    <string name="direct_call">Call Directly</string>
+    <string name="failure_permission">Permission Failure</string>
+</resources>
